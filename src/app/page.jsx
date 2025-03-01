@@ -13,7 +13,7 @@ const Page = () => {
         {/* Maistas Link */}
         <div className="w-full sm:w-auto">
           <Link
-            className="w-full text-xl border-2 border-transparent rounded-lg bg-gradient-to-r from-blue-500 to-teal-400 text-white px-8 py-4 transform transition-all duration-300 hover:scale-105 hover:from-teal-400 hover:to-blue-500 shadow-lg hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-50"
+            className="w-full text-xl border-2 border-transparent rounded-lg bg-gradient-to-r from-pink-500 to-purple-400 text-white px-8 py-4 transform transition-all duration-300 hover:scale-105 hover:from-purple-400 hover:to-pink-500 shadow-lg hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-pink-400 focus:ring-opacity-50"
             href="/maistas"
           >
             Maistas
@@ -22,7 +22,7 @@ const Page = () => {
         {/* Buitis Link */}
         <div className="w-full sm:w-auto">
           <Link
-            className="w-full text-xl border-2 border-transparent rounded-lg bg-gradient-to-r from-pink-500 to-purple-400 text-white px-8 py-4 transform transition-all duration-300 hover:scale-105 hover:from-purple-400 hover:to-pink-500 shadow-lg hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-pink-400 focus:ring-opacity-50"
+            className="w-full text-xl border-2 border-transparent rounded-lg bg-gradient-to-r from-blue-500 to-teal-400 text-white px-8 py-4 transform transition-all duration-300 hover:scale-105 hover:from-teal-400 hover:to-blue-500 shadow-lg hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-50"
             href="/buitis"
           >
             Buitis

@@ -36,11 +36,11 @@ const Statistics = () => {
   return (
     <div className="container mx-auto text-center">
       <h1 className="text-2xl font-bold pt-4 pb-4">
-        Statistika nuo 2024-06-19
+        Statistika nuo 2025-03-01
       </h1>
       <SearchForm handleSearch={handleSearch} />
       <div className="mt-4">
-        <Link className="text-center" href="/#">
+        <Link className="text-center" href="/">
           Atgal
         </Link>
       </div>

@@ -76,7 +76,7 @@ const NewAdd = () => {
           {parsedData ? parsedData.code : code}
         </span>
       </p>
-      <Form onSubmit={onSubmit} parsedData={parsedData} />
+      <Form onSubmit={onSubmit} parsedData={parsedData} title={title}  />
     </div>
   );
 };
