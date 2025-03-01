@@ -6,7 +6,7 @@ const Page = () => {
     <h1 className="text-2xl font-bold text-center">
       Prekių kategotijos
     </h1>
-      <div className="flex sm:gap-20 justify-end gap-28 px-2">
+      <div className="flex justify-between sm:justify-center sm:gap-24 px-1 xs:px-4" >
         <div>
           <Link
             className=" text-xl border rounded-lg bg-gray-300 px-4 py-2 hover:bg-gray-500"
