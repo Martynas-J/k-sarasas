@@ -86,7 +86,7 @@ const Form = ({ onSubmit, parsedData, title }) => {
               type="button"
               key={item}
               onClick={() => handleIncrement(item)}
-              className="px-6 py-3 bg-gradient-to-r from-green-400 to-green-600 text-white font-semibold rounded-full shadow-lg hover:scale-105 transform transition-all duration-300"
+              className="px-6 py-3 bg-gradient-to-r from-teal-400 to-teal-600 text-white font-semibold rounded-full shadow-lg hover:scale-105 transform transition-all duration-300"
             >
               +{item}
             </button>
