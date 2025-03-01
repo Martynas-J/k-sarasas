@@ -1,0 +1,27 @@
+[
+    {
+      "printer": "Canon 32cccccc0",
+      "name": "toner1",
+      "value": 5,
+      "code": "056154656565"
+    },
+    {
+      "printer": "Canon 3225120",
+      "name": "toner2",
+      "value": 2,
+      "code": "056154656566"
+    },
+    {
+      "printer": "Canon 3cccccc20",
+      "name": "toner3",
+      "value": 8,
+      "code": "056154656567"
+    },
+    {
+      "printer": "Canon 3ccccccc20",
+      "name": "toner4",
+      "value": 10,
+      "code": "056154656568"
+    }
+  ]
+  
